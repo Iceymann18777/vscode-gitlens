@@ -9738,7 +9738,7 @@
 		"terser-webpack-plugin": "5.1.4",
 		"ts-loader": "9.2.3",
 		"typescript": "4.4.0-beta",
-		"vsce": "1.95.1",
+		"vsce": "2.6.4",
 		"webpack": "5.44.0",
 		"webpack-bundle-analyzer": "4.4.2",
 		"webpack-cli": "4.2.0"
